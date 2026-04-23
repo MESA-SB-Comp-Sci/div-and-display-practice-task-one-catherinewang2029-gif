@@ -11,3 +11,29 @@
     border: 5px solid black;
 }
 
+.class-green{
+    background-color: lightgreen;
+    padding: 30px;
+    border-color: green;
+    border-style: solid;
+    width: 25vw;
+    color: green;
+}
+
+.class-yellow{
+    background-color: lightyellow;
+    padding: 30px;
+    border-color: orange;
+    border-style: solid;
+    width: 25vw;
+    color: orange;
+}
+
+.class-blue{
+    background-color: lightblue;
+    padding: 30px;
+    border-color: blue;
+    border-style: solid;
+    width: 25vw;
+    color: blue;
+}
